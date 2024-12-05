@@ -42,7 +42,7 @@ Managed relational databases such as MySQL, PostgreSQL, and Oracle SQL.
 💻 Technical Skills
 
 Programming Languages –
-Python (Libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.) 
+• Python (Libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.) 
 • Database Management – 
 Strong knowledge of relational database (e.g. MySQL) and Familiarity with NoSQL database (e.g. 
 MongoDB). 

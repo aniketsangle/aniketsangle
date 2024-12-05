@@ -41,25 +41,37 @@ Managed relational databases such as MySQL, PostgreSQL, and Oracle SQL.
 
 💻 Technical Skills
 
-Programming Languages – Python (Libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.) 
-• Database Management – Strong knowledge of relational database (e.g. MySQL) and Familiarity with NoSQL database (e.g. 
+Programming Languages –
+Python (Libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.) 
+• Database Management – 
+Strong knowledge of relational database (e.g. MySQL) and Familiarity with NoSQL database (e.g. 
 MongoDB). 
-• Data Analysis and Manipulation – Data Cleaning, EDA and preprocessing, handling missing data, outliers and normalization 
+• Data Analysis and Manipulation –
+Data Cleaning, EDA and preprocessing, handling missing data, outliers and normalization 
 techniques, Proficiency in ETL (Extract, Transform, Load) processes. 
-• Machine Learning – Understanding Supervised and Unsupervised learning algorithms such as: Linear/Logistic Regression, 
+• Machine Learning – 
+Understanding Supervised and Unsupervised learning algorithms such as: Linear/Logistic Regression, 
 Decision Trees and Random Forest, Support Vector Machines (SVM’s), Clustering (K-Means, DBSCAN), Dimensionality reduction 
 (PCA). 
-• Data Visualization – Tools like Matplotlib, Seaborn, Plotly, and Power BI for visualizing trends and insights. 
-• Mathematics and Statistics – Linear algebra and calculus for Machine learning models, Probability, Hypothesis testing, and 
+• Data Visualization – 
+Tools like Matplotlib, Seaborn, Plotly, and Power BI for visualizing trends and insights. 
+• Mathematics and Statistics – 
+Linear algebra and calculus for Machine learning models, Probability, Hypothesis testing, and 
 Statistical inference for data analysis. 
-• Big Data Technologies – Knowledge of distributed data frameworks like Apache Hadoop, HDFS, MapReduce, Apache Spark, 
+• Big Data Technologies – 
+Knowledge of distributed data frameworks like Apache Hadoop, HDFS, MapReduce, Apache Spark, 
 Apache Kafka, Airflow, Hive etc. 
-• Cloud Platforms – Understanding of data science on AWS and Azure (Databricks, Synapse Analytics etc.) for data storage and 
+• Cloud Platforms – 
+Understanding of data science on AWS and Azure (Databricks, Synapse Analytics etc.) for data storage and 
 processing. 
-• Version Control - Basic understanding of Git and GitHub. 
-• Containerization and Deployment - Familiarity with Docker and Kubernetes for deploying applications. 
-• Others – Basic knowledge of R, Linux, HTML/CSS/JS, Core Java, Streamlit etc. 
-• Testing – Experience in Manual Testing, Test Case Design and Execution, Defect Identification and Reporting, Test management 
+• Version Control - 
+Basic understanding of Git and GitHub. 
+• Containerization and Deployment - 
+Familiarity with Docker and Kubernetes for deploying applications. 
+• Others – 
+Basic knowledge of R, Linux, HTML/CSS/JS, Core Java, Streamlit etc. 
+• Testing – 
+Experience in Manual Testing, Test Case Design and Execution, Defect Identification and Reporting, Test management 
 tool (e.g. JIRA) 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

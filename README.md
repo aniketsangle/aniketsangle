@@ -5,12 +5,14 @@ Hi! I'm Aniket Sangle, a self-motivated Data Science Enthusiast with expertise i
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎓 Education
+
 PG Diploma - Diploma in Big Data Analytics, CDAC Mumbai (Feb 2024 - Sept 2024)
 Bachelor of Engineering - Computer Science and Engineering, SSGMCE Shegaon (2018 - 2022)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💼 Professional Experience
+
 Associate Software Engineer (Tristha Global Pvt Ltd)
 Built a Leave Management System website using Python's Flask framework.
 Designed user-friendly interfaces with CSS and HTML.
@@ -29,6 +31,7 @@ Managed relational databases such as MySQL, PostgreSQL, and Oracle SQL.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Interests
+
 🎯 Data Engineering and Big Data Technologies
 🎯 Machine Learning and Data Analytics
 🎯 Artificial Intelligence Applications
@@ -37,6 +40,7 @@ Managed relational databases such as MySQL, PostgreSQL, and Oracle SQL.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💻 Technical Skills
+
 Programming Languages – Python (Libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.) 
 • Database Management – Strong knowledge of relational database (e.g. MySQL) and Familiarity with NoSQL database (e.g. 
 MongoDB). 
@@ -61,9 +65,6 @@ tool (e.g. JIRA)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Featured Projects
-🎯 Predicting Customer Revenue
-Created customer segments and estimated revenue using Rule-Based Classification.
-Technologies: Python, Pandas, Jupyter Notebook
 
  BACKORDER PREDICTION FOR SUPPLY CHAIN OPTIMIZATION 
 	Platform used: Python, Machine Learning, Pandas, NumPy, Streamlit, GitHub, Docker, Azure, SQL. 
@@ -95,6 +96,7 @@ and error handling for a smooth user experience.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌍 Connect with Me
+
 LinkedIn: aniketsangle1999/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
